@@ -10,7 +10,6 @@ Currently, I'm working on [SnagTag](https://github.com/dohnj0e/snagtag), a proje
 ## ☕️ Donate
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://www.buymeacoffee.com/dohnj0)
-[![Ko-fi](https://img.shields.io/badge/Support%20Me%20On-Ko--fi-red.svg?style=flat&logo=ko-fi)](https://ko-fi.com/dohnj0)
 
 ## 📈 GitHub Stats
 
